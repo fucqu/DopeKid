@@ -1,5 +1,3 @@
-#Deobfuscated By xNot_Found
-#Github : https://github.com/hatakecnk
 #!/bin/bash
 #VPS Script By   : Dope-Kid
 #Contact Me FB   : https://www.facebook.com/joash.singh.90
